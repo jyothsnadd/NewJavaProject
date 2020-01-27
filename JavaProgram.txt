@@ -1,1 +1,2 @@
 this is java program abt addition of two numbers
+I have added a new method for addition
